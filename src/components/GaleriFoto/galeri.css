@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&family=Baloo+2&family=Bungee+Spice&family=Fredoka+One&family=Permanent+Marker&display=swap");
+
+.row {
+  margin-top: 100px;
+}
+
+.artikel {
+  text-transform: capitalize;
+  text-align: justify;
+  font-size: 20px;
+  font-family: "Permanent Marker", cursive;
+}
+
+.rounded {
+  width: 200px;
+  height: 200px;
+}

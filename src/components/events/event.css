@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&family=Baloo+2&family=Bungee+Spice&family=Fredoka+One&family=Permanent+Marker&display=swap");
+
+.even {
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: -190px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: red;
+}
+
+.judul {
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: -190px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(0, 0, 0);
+  font-family: "Permanent Marker", cursive;
+}
+
+.isi {
+  font-size: 15px;
+  font-weight: bolder;
+  margin-left: -190px;
+  color: rgb(0, 0, 0);
+  font-family: "Baloo 2", cursive;
+}
